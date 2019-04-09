@@ -1,0 +1,10 @@
+{
+  "simulation": "plp.OrderPlacementMaster",
+  "simulationId": "orderplacementmaster",
+  "start": 1554725292917,
+  "description": "",
+  "scenarios": ["plp.PLPTest"],
+  "assertions": [
+
+  ]
+}
